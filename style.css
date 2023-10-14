@@ -70,3 +70,7 @@
   .try{
     padding-right: 87px;
   }
+  .img-logo{
+    display: flex;
+    justify-content: flex-start;
+  }
